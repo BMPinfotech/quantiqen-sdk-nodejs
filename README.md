@@ -12,7 +12,7 @@ Client-side batching, automatic retry with exponential backoff, and proactive ra
 npm install @quantiqen/sdk
 
 # Or from git:
-npm install git+https://github.com/kalidashodekare14/quantiqen-sdk-nodejs.git#main
+npm install git+https://github.com/BMPinfotech/quantiqen-sdk-nodejs.git#main
 ```
 
 ## Quickstart

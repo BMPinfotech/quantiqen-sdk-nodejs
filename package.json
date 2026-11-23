@@ -33,7 +33,7 @@
   ],
   "author": {
     "name": "QUANTIQEN",
-    "url": "https://github.com/kalidashodekare14"
+    "url": "https://github.com/BMPinfotech"
   },
   "license": "MIT",
   "publishConfig": {
@@ -42,11 +42,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kalidashodekare14/quantiqen-sdk-nodejs.git"
+    "url": "git+https://github.com/BMPinfotech/quantiqen-sdk-nodejs.git"
   },
-  "homepage": "https://github.com/kalidashodekare14/quantiqen-sdk-nodejs",
+  "homepage": "https://github.com/BMPinfotech/quantiqen-sdk-nodejs",
   "bugs": {
-    "url": "https://github.com/kalidashodekare14/quantiqen-sdk-nodejs/issues"
+    "url": "https://github.com/BMPinfotech/quantiqen-sdk-nodejs/issues"
   },
   "engines": {
     "node": ">=18.0.0"
